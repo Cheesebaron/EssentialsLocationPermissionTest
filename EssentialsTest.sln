@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EssentialsTest", "EssentialsTest.csproj", "{670D6F0F-5FAE-4CC4-8175-B4CDBE7FA738}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{E144311E-5214-4D99-A0C1-C2A396EC46E9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{670D6F0F-5FAE-4CC4-8175-B4CDBE7FA738}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{670D6F0F-5FAE-4CC4-8175-B4CDBE7FA738}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{670D6F0F-5FAE-4CC4-8175-B4CDBE7FA738}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{670D6F0F-5FAE-4CC4-8175-B4CDBE7FA738}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{670D6F0F-5FAE-4CC4-8175-B4CDBE7FA738}.Release|Any CPU.Build.0 = Release|Any CPU
+		{670D6F0F-5FAE-4CC4-8175-B4CDBE7FA738}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
